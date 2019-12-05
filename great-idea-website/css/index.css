@@ -87,6 +87,22 @@ header .navigation-bar {
 	width: 100%;	
 }
 
+header .navigation-bar a {
+	border: 1px solid rgb(206, 197, 197);
+	margin: 0 5px;
+	border-radius: 12px;
+	background-color: rgb(22, 24, 22);
+	text-decoration: none;
+
+}
+
+a {
+	color: rgb(219, 194, 214);
+	text-decoration: none;
+	background-color: rgb(31, 31, 41);
+}
+
+
 
 .navigation-bar a{
 	padding:3%;
